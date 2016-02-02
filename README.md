@@ -1,5 +1,7 @@
 # ALAlertBanner
 
+[![Join the chat at https://gitter.im/denistrofimov/ALAlertBanner](https://badges.gitter.im/denistrofimov/ALAlertBanner.svg)](https://gitter.im/denistrofimov/ALAlertBanner?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ALAlertBanner is a drop-in component for iOS (both iPhone and iPad) that allows you to display beautiful alert banners in a customizable and configurable way. 
 
 ### Preview
